@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyamtiwari23/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/Satyamtiwari23/LeetCode/tree/master/0018-4sum) |
 ## String
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Satyamtiwari23/LeetCode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Satyamtiwari23/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
