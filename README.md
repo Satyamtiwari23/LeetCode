@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Satyamtiwari23/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Satyamtiwari23/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Satyamtiwari23/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyamtiwari23/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -42,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Satyamtiwari23/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Satyamtiwari23/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
