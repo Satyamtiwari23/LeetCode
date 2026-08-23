@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Satyamtiwari23/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Satyamtiwari23/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Satyamtiwari23/LeetCode/tree/master/0118-pascals-triangle) |
+| [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Satyamtiwari23/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Satyamtiwari23/LeetCode/tree/master/0088-merge-sorted-array) |
+| [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Satyamtiwari23/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Satyamtiwari23/LeetCode/tree/master/0013-roman-to-integer) |
+| [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
 | ------- |
