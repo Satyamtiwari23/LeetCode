@@ -3,9 +3,7 @@ class Solution {
         if (dividend == Integer.MIN_VALUE && divisor == -1) {
             return Integer.MAX_VALUE;
         }
-        if(divisor == -1){
-            return -dividend;
-        }
+
         boolean negative = false;
         if(divisor < 0 && dividend > 0 || dividend < 0 && divisor > 0){
             negative = true;
@@ -14,13 +12,22 @@ class Solution {
         long dividendValue = Math.abs((long) dividend);
         long divisorValue = Math.abs((long) divisor);
 
-        int count = 0;
+        int finalCount = 0;
 
         while (dividendValue >= divisorValue) {
-            dividendValue = dividendValue - divisorValue;
-            count++;
+
+            long value = divisorValue;
+            int multiple = 1;
+
+            while (dividendValue >= value + value) {
+                value = value + value;
+                multiple = multiple + multiple;
+            }
+
+            dividendValue = dividendValue - value;
+            finalCount = finalCount + multiple;
         }
 
-        return negative ? -count : count;
+        return negative ? -finalCount : finalCount;
     }
 }
