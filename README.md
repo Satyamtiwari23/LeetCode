@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Satyamtiwari23/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Satyamtiwari23/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Satyamtiwari23/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/Satyamtiwari23/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1768-merge-strings-alternately](https://github.com/Satyamtiwari23/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Satyamtiwari23/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Satyamtiwari23/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Satyamtiwari23/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Satyamtiwari23/LeetCode/tree/master/0205-isomorphic-strings) |
 | [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
