@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Satyamtiwari23/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Satyamtiwari23/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0202-happy-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Satyamtiwari23/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Satyamtiwari23/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyamtiwari23/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Satyamtiwari23/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0202-happy-number) |
 | [1768-merge-strings-alternately](https://github.com/Satyamtiwari23/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Satyamtiwari23/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Satyamtiwari23/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Satyamtiwari23/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Satyamtiwari23/LeetCode/tree/master/0205-isomorphic-strings) |
 | [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
 ## String Matching
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Satyamtiwari23/LeetCode/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
