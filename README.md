@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Satyamtiwari23/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0137-single-number-ii) |
+| [0164-maximum-gap](https://github.com/Satyamtiwari23/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Satyamtiwari23/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Satyamtiwari23/LeetCode/tree/master/0204-count-primes) |
 | [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Satyamtiwari23/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Satyamtiwari23/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Satyamtiwari23/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Satyamtiwari23/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Satyamtiwari23/LeetCode/tree/master/0169-majority-element) |
 | [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -225,4 +227,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Satyamtiwari23/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Satyamtiwari23/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Satyamtiwari23/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Satyamtiwari23/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
