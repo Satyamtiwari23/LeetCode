@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Satyamtiwari23/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satyamtiwari23/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Satyamtiwari23/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Satyamtiwari23/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyamtiwari23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Satyamtiwari23/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Satyamtiwari23/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Satyamtiwari23/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1768-merge-strings-alternately](https://github.com/Satyamtiwari23/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Trie
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Satyamtiwari23/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Satyamtiwari23/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Satyamtiwari23/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyamtiwari23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Satyamtiwari23/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Satyamtiwari23/LeetCode/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0179-largest-number) |
 ## Matrix
 |  |
 | ------- |
