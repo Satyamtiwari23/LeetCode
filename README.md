@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Satyamtiwari23/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Satyamtiwari23/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyamtiwari23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Satyamtiwari23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Satyamtiwari23/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Satyamtiwari23/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyamtiwari23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Satyamtiwari23/LeetCode/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Satyamtiwari23/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Satyamtiwari23/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Satyamtiwari23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
 ## String Matching
