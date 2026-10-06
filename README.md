@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Satyamtiwari23/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Satyamtiwari23/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Simulation
 |  |
 | ------- |
