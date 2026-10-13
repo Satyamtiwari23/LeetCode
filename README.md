@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Satyamtiwari23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0260-single-number-iii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Satyamtiwari23/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Satyamtiwari23/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Satyamtiwari23/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Satyamtiwari23/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0260-single-number-iii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0260-single-number-iii) |
 ## Simulation
 |  |
 | ------- |
