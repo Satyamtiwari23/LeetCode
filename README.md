@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Satyamtiwari23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Satyamtiwari23/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [3731-find-missing-elements](https://github.com/Satyamtiwari23/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Satyamtiwari23/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Satyamtiwari23/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Satyamtiwari23/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyamtiwari23/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Satyamtiwari23/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
