@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Satyamtiwari23/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Satyamtiwari23/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Satyamtiwari23/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Satyamtiwari23/LeetCode/tree/master/0231-power-of-two) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Satyamtiwari23/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Satyamtiwari23/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Satyamtiwari23/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/Satyamtiwari23/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Satyamtiwari23/LeetCode/tree/master/0260-single-number-iii) |
 ## Simulation
 |  |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Satyamtiwari23/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Satyamtiwari23/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
